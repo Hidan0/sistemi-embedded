@@ -6,6 +6,7 @@ src = "src"
 title = "Sistemi Embedded"
 
 [output.html]
+git-repository-url = "https://github.com/Hidan0/sistemi-embedded"
 mathjax-support = true
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
 
