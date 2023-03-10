@@ -1,0 +1,15 @@
+[book]
+authors = ["Riccardo Monilia"]
+language = "it"
+multilingual = false
+src = "src"
+title = "Sistemi Embedded"
+
+[output.html]
+mathjax-support = true
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
