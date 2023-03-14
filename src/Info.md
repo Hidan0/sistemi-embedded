@@ -1,4 +1,4 @@
-# Introduzione
+# Info book
 
 I seguenti appunti sono tratti dal corso di _Sistemi Embeded_ dell'Università degli Studi di Milano, Informatica, per l'anno accademico 2022-2023.
 
