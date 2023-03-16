@@ -4,7 +4,7 @@
 
 - [Introduzione ai Sistemi Embedded](./capitolo01/Introduzione.md)
   - [Introduzione parte pratica](./capitolo01/Introduzione_lab.md)
-  - [Ambiente di sviluppo]()
+  - [Ambiente di sviluppo](./capitolo01/Ambiente_di_sviluppo.md)
     - [Arduino IDE]()
     - [Rust on ESP (esp-rs)]()
 - [Concetti generali](./Capitolo2.md)

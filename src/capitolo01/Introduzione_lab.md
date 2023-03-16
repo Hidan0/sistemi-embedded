@@ -32,11 +32,6 @@ I PC moderni comunicano tramite USB, quindi è necessario che ci sia un converti
 
 Il convertitore può essere sia integrato che esterno, nel secondo caso verranno utilizzati i pin `tx` e `rx` per il trasferimento dei dati.
 
-#### In linux...
-
-L'utente per comunicare con la board deve accedere in lettura e scrittura al file del dispositivo. Udev crea file come `/dev/ttyUSB0` di proprietà del gruppo `uucp` (Arch linux, vedi wiki distro).
-Quindi aggiungendo l'utente al gruppo `uucp` si ottiene l'accesso in lettura e scrittura richiesto.
-
 ### Bootloader
 
 Il **bootloader** è un programma precaricato in memoria (_DIP_): può essere più o meno complesso e si occupa di far partire o caricare dalla seriale eventuali sketch.
