@@ -14,3 +14,5 @@
   - [Elettricità](./capitolo03/Elettricita.md)
   - [Legge di Ohm](./capitolo03/Legge_Ohm.md)
   - [Leggi di Kirchhoff](./capitolo03/Leggi_Kirchhoff.md)
+  - [Resistori]()
+  - [Serie e parallelo]()
