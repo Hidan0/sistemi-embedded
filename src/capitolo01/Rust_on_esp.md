@@ -2,11 +2,6 @@
 
 Per utilizzare Rust sui microcontrollori ESP seguiremo il book ufficiale di _esp-rs_ 👉[The Rust on ESP book](https://esp-rs.github.io/book/).
 
-Altre risorse utili:
-
-- [Getting Started with ESP8266](https://lastminuteengineers.com/getting-started-with-esp8266/)
-- [Docs ESP8266](https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/get-started/index.html#introduction)
-
 ## Setup
 
 Ad oggi, nella mainline di Rust non esiste il supporto per l'architettura `Extensa` (l'architettura di ESP8266 e ESP32).
