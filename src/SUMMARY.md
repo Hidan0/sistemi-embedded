@@ -2,6 +2,8 @@
 
 [Informazioni sulle note](./Info.md)
 
+# Teoria
+
 - [Introduzione ai Sistemi Embedded](./capitolo01/Introduzione.md)
   - [Introduzione parte pratica](./capitolo01/Introduzione_lab.md)
   - [Ambiente di sviluppo](./capitolo01/Ambiente_di_sviluppo.md)
@@ -14,5 +16,6 @@
   - [Elettricità](./capitolo03/Elettricita.md)
   - [Legge di Ohm](./capitolo03/Legge_Ohm.md)
   - [Leggi di Kirchhoff](./capitolo03/Leggi_Kirchhoff.md)
+  - [Corrente continua e alternata](./capitolo03/Corrente_Continua_Alternata.md)
   - [Resistenze](./capitolo03/Resistori.md)
   - [Serie e parallelo]()
