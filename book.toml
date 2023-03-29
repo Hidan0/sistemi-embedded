@@ -9,12 +9,8 @@ title = "Sistemi Embedded"
 git-repository-url = "https://github.com/Hidan0/sistemi-embedded"
 mathjax-support = true
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
-additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-highlight.css"]
 
 [preprocessor]
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
-
-[preprocessor.catppuccin]
-assets_version = "0.1.1" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
