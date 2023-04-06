@@ -1,1 +1,0 @@
-# Scrittura su seriale

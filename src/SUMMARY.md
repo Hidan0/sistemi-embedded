@@ -23,5 +23,5 @@
   - [Rust on ESP (esp-rs)](./lab/Rust_on_esp.md)
     - [Blink demo su ESP8266](./lab/esp8266_blink_rs.md)
     - [Blink demo su ESP32]()
-- [Scrittura su seriale](./lab/scrittura_su_seriale.md)
+- [Scrittura su seriale](./lab/Scrittura_su_seriale.md)
 - [Lettura pressione di un bottone](./lab/Lettura_bottone.md)
