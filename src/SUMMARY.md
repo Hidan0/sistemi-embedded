@@ -12,7 +12,7 @@
   - [Leggi di Kirchhoff](./capitolo03/Leggi_Kirchhoff.md)
   - [Corrente continua e alternata](./capitolo03/Corrente_Continua_Alternata.md)
   - [Resistenze](./capitolo03/Resistori.md)
-  - [Serie e parallelo]()
+  - [Serie e parallelo](./capitolo03/Serie_Parallelo.md)
 
 # Pratica
 
@@ -22,4 +22,5 @@
   - [Rust on ESP (esp-rs)](./lab/Rust_on_esp.md)
     - [Blink demo su ESP8266](./lab/esp8266_blink_rs.md)
     - [Blink demo su ESP32]()
-- [Lettura pressione di un bottone]()
+- [Scrittura su seriale](./lab/scrittura_su_seriale.md)
+- [Lettura pressione di un bottone](./lab/Lettura_bottone.md)
