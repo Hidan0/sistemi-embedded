@@ -13,6 +13,7 @@
   - [Corrente continua e alternata](./capitolo03/Corrente_Continua_Alternata.md)
   - [Resistenze](./capitolo03/Resistori.md)
   - [Serie e parallelo](./capitolo03/Serie_Parallelo.md)
+    - [R in serie e in parallelo](./capitolo03/Resistenze_serie_parallelo.md)
 
 # Pratica
 
