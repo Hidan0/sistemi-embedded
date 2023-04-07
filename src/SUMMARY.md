@@ -26,3 +26,4 @@
     - [Blink demo su ESP32]()
 - [Scrittura su seriale](./lab/Scrittura_su_seriale.md)
 - [Input PULLUP (e PULLDOWN)](./lab/Pullup_pulldown.md)
+  - [Versione con pull-up esterno]()
