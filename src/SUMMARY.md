@@ -14,6 +14,7 @@
   - [Resistenze](./capitolo03/Resistori.md)
   - [Serie e parallelo](./capitolo03/Serie_Parallelo.md)
     - [R in serie e in parallelo](./capitolo03/Resistenze_serie_parallelo.md)
+  - [Resistenza di pull-up/pull-down](./capitolo03/Resistenza_pullup_pulldown.md)
 
 # Pratica
 
@@ -24,4 +25,4 @@
     - [Blink demo su ESP8266](./lab/esp8266_blink_rs.md)
     - [Blink demo su ESP32]()
 - [Scrittura su seriale](./lab/Scrittura_su_seriale.md)
-- [Lettura pressione di un bottone](./lab/Lettura_bottone.md)
+- [Input PULLUP (e PULLDOWN)](./lab/Pullup_pulldown.md)
