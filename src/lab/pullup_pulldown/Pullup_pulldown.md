@@ -11,13 +11,13 @@ Possiamo utilizzare i pin digitali per leggere dati da un sensore o per scrivere
 
 Esiste inoltre una terza opzione: `INPUT_PULLUP`. Questa opzione è analoga ad `INPUT` (legge dati da un sensore), ma oltre a questo, viene attivata una _resistenza di pull-up **interna**_, per mantenere il segnale `HIGH` di default.
 
-- 👉[Resistenza di pull-up](../capitolo03/Resistenza_pullup_pulldown.md)
+- 👉[Resistenza di pull-up](../../capitolo03/Resistenza_pullup_pulldown.md)
 
 Quando è utile la modalità `INPUT_PULLUP`? Consideriamo il seguente esercizio...
 
 ## Accensione led alla pressione di un bottone
 
-<div style="text-align: center"><img src="../image/bottone_led.png" alt="Circuito per accensione led alla pressione del bottone"></div>
+<div style="text-align: center"><img src="../../image/bottone_led.png" alt="Circuito per accensione led alla pressione del bottone"></div>
 
 - Il led è collegato `D2`
 - Il bottone è collegato a `D1`; se non si ha un bottone è possibile usare due jumper
