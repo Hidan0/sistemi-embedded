@@ -31,7 +31,7 @@ Il problema sta nel bottone: quando non viene premuto rimane in uno stato fluttu
 #define LED D2
 
 void setup() {
-  // pinMode(BTN, INPUT_PULLUP); SBAGLIATO
+  // pinMode(BTN, INPUT); SBAGLIATO
   pinMode(BTN, INPUT_PULLUP);
   pinMode(LED, OUTPUT);
   Serial.begin(115200);
