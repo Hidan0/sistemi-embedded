@@ -12,9 +12,13 @@
   - [Leggi di Kirchhoff](./capitolo03/Leggi_Kirchhoff.md)
   - [Corrente continua e alternata](./capitolo03/Corrente_Continua_Alternata.md)
   - [Resistenze](./capitolo03/Resistori.md)
+  - [Condensatore](./capitolo03/Condensatore.md)
   - [Serie e parallelo](./capitolo03/Serie_Parallelo.md)
     - [R in serie e in parallelo](./capitolo03/Resistenze_serie_parallelo.md)
+    - [C in serie e in parallelo](./capitolo03/Condensatore_serie_parallelo.md)
   - [Resistenza di pull-up/pull-down](./capitolo03/Resistenza_pullup_pulldown.md)
+  - [Transistor](./capitolo03/Transistor.md)
+- [Sensori ed Attuatori]()
 
 # Pratica
 
