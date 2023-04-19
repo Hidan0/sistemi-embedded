@@ -6,7 +6,7 @@ Il **condensatore** (_capacitor_) è un componente in grado di accumulare tempor
 
 Il simbolo del condensatore ne ricorda la costruzione:
 
-<div style="text-align: center"><img src="../image/capacitor.png" alt="Led in serie"></div>
+<div style="text-align: center"><img src="../image/capacitor.png" alt="Simbolo condensatore"></div>
 
 Quando viene applicata una differenza di potenziale ai suoi capi, gli elettroni si spostano da un'armatura all'altra.
 Gli elettroni accumulati su una delle due armature creano una differenza di potenziale che si può utilizzare applicando un carico ai capi del condensatore.
