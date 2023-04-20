@@ -27,7 +27,7 @@
   - [Arduino IDE](./lab/Arduino_IDE.md)
   - [Rust on ESP (esp-rs)](./lab/Rust_on_esp.md)
     - [Blink demo su ESP8266](./lab/esp8266_blink_rs.md)
-    - [Blink demo su ESP32]()
+    - [Blink demo su ESP32](./lab/esp32_blink_rs.md)
 - [Scrittura su seriale](./lab/Scrittura_su_seriale.md)
 - [Input PULLUP (e PULLDOWN)](./lab/pullup_pulldown/Pullup_pulldown.md)
   - [Versione con pull-up esterno](./lab/pullup_pulldown/Pullup_pulldown_external.md)
