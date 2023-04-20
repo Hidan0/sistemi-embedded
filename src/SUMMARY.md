@@ -32,3 +32,4 @@
 - [Input PULLUP (e PULLDOWN)](./lab/pullup_pulldown/Pullup_pulldown.md)
   - [Versione con pull-up esterno](./lab/pullup_pulldown/Pullup_pulldown_external.md)
   - [Versione con esp-rs](./lab/pullup_pulldown/pullup_esp-rs.md)
+- [Interrupt](./lab/Interrupt.md)
