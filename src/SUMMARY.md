@@ -18,7 +18,7 @@
     - [C in serie e in parallelo](./capitolo03/Condensatore_serie_parallelo.md)
   - [Resistenza di pull-up/pull-down](./capitolo03/Resistenza_pullup_pulldown.md)
   - [Transistor](./capitolo03/Transistor.md)
-- [Sensori ed Attuatori]()
+- [Sensori ed Attuatori](./Sensori_attuatori.md)
 
 # Pratica
 
