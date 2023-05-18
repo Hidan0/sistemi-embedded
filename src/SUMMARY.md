@@ -19,6 +19,9 @@
   - [Resistenza di pull-up/pull-down](./capitolo03/Resistenza_pullup_pulldown.md)
   - [Transistor](./capitolo03/Transistor.md)
 - [Sensori ed Attuatori](./Sensori_attuatori.md)
+- [Panoramica architetture memorie](./mem/Arch_memorie.md)
+  - [Memoria di sistema](./mem/Mem_Sistema.md)
+  - [Memoria di massa](./mem/Mem_Massa.md)
 
 # Pratica
 
