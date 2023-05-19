@@ -22,6 +22,10 @@
 - [Panoramica architetture memorie](./mem/Arch_memorie.md)
   - [Memoria di sistema](./mem/Mem_Sistema.md)
   - [Memoria di massa](./mem/Mem_Massa.md)
+- [Bus e periferiche](./bus/Intro.md)
+  - [RS-232 Serial Port](./bus/RS-232.md)
+  - [I2C](./bus/I2C.md)
+  - [SPI]()
 
 # Pratica
 
