@@ -25,7 +25,7 @@
 - [Bus e periferiche](./bus/Intro.md)
   - [RS-232 Serial Port](./bus/RS-232.md)
   - [I2C](./bus/I2C.md)
-  - [SPI]()
+  - [SPI](./bus/SPI.md)
 
 # Pratica
 
