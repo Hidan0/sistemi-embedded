@@ -27,6 +27,7 @@
   - [I2C](./bus/I2C.md)
   - [SPI](./bus/SPI.md)
 - [MQTT](./MQTT.md)
+- [Controlli automatici](./Controlli_Automatici.md)
 
 # Pratica
 
