@@ -59,3 +59,11 @@ Se le variabili di uscita non vengono prese in considerazione si parla di modell
 $$
 \frac{dU(t)}{dt} = f(C(t),\ A(t))
 $$
+
+La differenza tra i due modelli risiede nel fatto che nel modello _open loop_ il comportamento previsto del sistema è _hardcoded_,
+senza alcuna valutazione del risultato effettivo dell'azione.
+Nel modello senza retroazione il costo di progettazione risiede nel perfezionamento della formula che deve
+essere quanto più rappresentativa della situazione reale.
+
+Nel modello _closed loop_, invece, è possibile incorporare azioni correttive in base all'output effettivamente ottenuto.
+È importante quindi, studiare attentamente il meccanismo di feedback per determinare la reattività adeguata alla funzione di trasferimento.
