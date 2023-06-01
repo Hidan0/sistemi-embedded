@@ -112,11 +112,11 @@ unsigned long current_time = 0; // quando è avvenuta la pressione "attuale"
 unsigned long last_time = 0;    // pressione "passata"
 
 void IRAM_ATTR btnPressed() {
-  current_time = millis();               // istante di tempo "attuale"
+  current_time = millis();              // istante di tempo "attuale"
   if (current_time - last_time > 250) { // "elapsed_time" > 250ms
     btn.count++;
     btn.pressed = true;
-    last_button_time = button_time;     // salvo l'istante di tempo attuale come "passato"
+    last_time = current_time;           // salvo l'istante di tempo attuale come "passato"
   }
 }
 
